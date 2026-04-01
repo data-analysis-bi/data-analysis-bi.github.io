@@ -3,7 +3,7 @@
 > **All PDF Tools in One Place — 100% Offline & Private**  
 > Your files never leave your device. No uploads. No accounts. No internet required.
 
-🔗 **Live Demo:** https://data-analysis-bi.github.io/PDF-Editor-Pro/
+🔗 **Live Demo:** https://data-analysis-bi.github.io/
 
 ---
 
